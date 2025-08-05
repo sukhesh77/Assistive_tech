@@ -17,6 +17,13 @@ This project is a **Python-based assistive technology** designed to help visuall
 
 ---
 
+## 📄 Research Paper
+This project is based on our research paper titled **"Enhancing Accessibility for the Visually Impaired through Text Voice-Activated Images"**, which was presented at [Your Conference Name].
+
+📌 You can read the full paper here: [Assistive_Tech_Research_Paper.pdf](./Assistive_Tech_Research_Paper.pdf)
+
+---
+
 ## 🛠️ How to Use
 
 1. **Install the required libraries**:
